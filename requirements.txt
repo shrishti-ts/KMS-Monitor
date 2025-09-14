@@ -1,0 +1,5 @@
+pynput
+cryptography
+streamlit
+pytest
+flake8
