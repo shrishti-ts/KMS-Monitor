@@ -1,0 +1,8 @@
+# This is a TEMPLATE ONLY: DO NOT STORE SECRETS IN REPO
+sender: "you@example.com"
+receiver: "you@example.com"
+smtp_server: "smtp.gmail.com"
+smtp_port: 465
+use_ssl: true
+# encryption_key: set via GitHub Secrets as FERNET_KEY
+# smtp_password: set via GitHub Secrets as SMTP_PASSWORD
